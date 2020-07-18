@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.InterviewPrep FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewPrep/Algos/Dynamic Programming/0:1 Knapsack/Class1.cs">
+    <Files>
+      <File FileName="InterviewPrep/Algos/Dynamic Programming/0:1 Knapsack/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterviewPrep" expanded="True">
+            <Node name="InterviewPrep" expanded="True">
+              <Node name="Algos" expanded="True">
+                <Node name="Dynamic Programming" expanded="True">
+                  <Node name="0:1 Knapsack" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

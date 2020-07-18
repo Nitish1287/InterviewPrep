@@ -1,0 +1,9 @@
+/Users/Nitish/InterviewPrep/InterviewPrep/bin/Debug/netcoreapp3.1/InterviewPrep.deps.json
+/Users/Nitish/InterviewPrep/InterviewPrep/bin/Debug/netcoreapp3.1/InterviewPrep.dll
+/Users/Nitish/InterviewPrep/InterviewPrep/bin/Debug/netcoreapp3.1/InterviewPrep.pdb
+/Users/Nitish/InterviewPrep/InterviewPrep/obj/Debug/netcoreapp3.1/InterviewPrep.csprojAssemblyReference.cache
+/Users/Nitish/InterviewPrep/InterviewPrep/obj/Debug/netcoreapp3.1/InterviewPrep.AssemblyInfoInputs.cache
+/Users/Nitish/InterviewPrep/InterviewPrep/obj/Debug/netcoreapp3.1/InterviewPrep.AssemblyInfo.cs
+/Users/Nitish/InterviewPrep/InterviewPrep/obj/Debug/netcoreapp3.1/InterviewPrep.csproj.CoreCompileInputs.cache
+/Users/Nitish/InterviewPrep/InterviewPrep/obj/Debug/netcoreapp3.1/InterviewPrep.dll
+/Users/Nitish/InterviewPrep/InterviewPrep/obj/Debug/netcoreapp3.1/InterviewPrep.pdb
