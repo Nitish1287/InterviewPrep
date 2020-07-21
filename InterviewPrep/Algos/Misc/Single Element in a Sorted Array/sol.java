@@ -17,7 +17,7 @@ public int singleNonDuplicate(int[] nums) {
 Time Complexity - O(n)
 Space Complexity - O(1)
 
-=================================================================
+==================================================================
 
 public int singleNonDuplicate(int[] nums) {
         int lo= 0;
